@@ -1,0 +1,7 @@
+Tool: built-in image generation
+
+Use case: logo-brand.
+Asset type: square README project logo for applied-unsupervised-learning.
+Project purpose: Applied unsupervised learning workflows with reproducible notebooks, tested Python utilities, and label-free evaluation.
+Design direction: A loose cloud of violet, moss-green and ochre shapes naturally organizes into three distinct organic petal-like clusters, with a few ambiguous pieces between them. Fluid marbled-paper collage on white, clear broad groups and flowing contours. Suggest discovered structure without labels or hard class boundaries.
+Composition: create one finished square artwork with a strong silhouette, readable at 160 pixels, and comfortable margins. This is the logo itself, not a presentation or product mockup. No text, words, letters, numbers, captions or watermark anywhere in the image. Do not use a generic navy-and-gold metallic badge.

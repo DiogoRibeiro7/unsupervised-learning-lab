@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/project-logo.png" alt="applied-unsupervised-learning project logo" width="160" height="160">
+</p>
+
 # Applied Unsupervised Learning
 
 [![Docs](https://img.shields.io/badge/docs-github.io-blue.svg)](https://diogoribeiro7.github.io/applied-unsupervised-learning/)
